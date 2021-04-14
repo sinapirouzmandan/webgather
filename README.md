@@ -18,7 +18,7 @@ Web pentesting toolkit
 > Python 3
 
 ```
-$ git clone https://github.com/riverslde/webgather.git
+$ git clone https://github.com/xina0x/webgather.git
 $ cd webgather
 $ pip3 install -r requirements.txt
 ```
