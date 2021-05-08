@@ -3,3 +3,4 @@ requests==2.25.1
 beautifulsoup4==4.9.3
 cloudscraper==1.2.58
 whois==0.9.13
+lxml
